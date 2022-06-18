@@ -1,0 +1,11 @@
+
+body{
+    width: 40%;
+    margin-left: 20%;
+    padding: 5%;
+    height: 30%;
+    background-color: darkslategray;
+    background-image: url(./Downloads/Sistema-solar-por-Comfreak1-1.jpg);   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+}
